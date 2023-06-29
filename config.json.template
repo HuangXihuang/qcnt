@@ -1,0 +1,6 @@
+{
+  "single_max": 10,
+  "group_member_max": 5,
+  "group_total_max": 100,
+  "limit_interval": "hour"
+}
